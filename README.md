@@ -1,6 +1,6 @@
 # 💫 About Me:
 I'm Zeyan Ramzan!
-🔭 I’m currently working on a Phycological Horror game called OFFLINE<br>👯 I’m looking to collaborate on unity game project<br>🤝 I’m looking for developing a large indie game set in Ladakh<br>🌱 I’m currently learning Roblox game development<br>
+🔭 I’m currently working on a Phycological Horror game called OFFLINE<br>👯 I’m looking to collaborate on unity game projects<br>🤝 I’m looking for developing a large indie game set in Ladakh<br>🌱 I’m currently learning Roblox game development<br>
 
 
 ## 🌐 Socials:
